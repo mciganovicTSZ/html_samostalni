@@ -1,0 +1,40 @@
+p.jedan{
+    border: outset salmon 30px;
+    margin: 70px;
+}
+p.dva{
+    border: outset green 30px;
+    margin: 100px;
+}
+p.tri{
+    border: 5px solid red;
+    margin: 10px 0 0 100px;
+}
+p.cetri{
+    border-style: groove;
+    margin: 10px 0 0 0;
+}
+p.pet{
+    border-style: dashed;
+    margin: 0 10px 0 0;
+}
+p.sest{
+    border: 20px dotted pink;
+    margin: 0 0 40px 0;
+}
+p.sedam{
+    border-style: dotted;
+    margin: 10px 10px 40px;
+}
+p.osam{
+    border-style: hidden ;
+    margin: 30px 20px 30px 20px;
+}
+p.devet{
+    border: 50px double orange;
+    margin: 40px 10px;
+}
+p.deset{
+    border-style: none;
+    margin: 0;
+}
